@@ -1,1 +1,2 @@
-# Power-BI-Project
+# Superstoresales_Power-BI-Project
+This repository houses the code and resources for the 'Super Store Sales Analysis' project. The project's primary goal is to utilize data analytics techniques to gain valuable insights into Super Store's sales performance, product trends, and customer behavior. It encompasses data preprocessing, comprehensive data modeling, and interactive data visualization using Power BI, offering a user-friendly dashboard for in-depth exploration of the sales data.
